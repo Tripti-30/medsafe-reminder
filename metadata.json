@@ -1,0 +1,5 @@
+{
+  "name": "MedSafe Reminder",
+  "description": "A smart medicine tracker that provides detailed information about your medications and sets timely reminders with alarms.",
+  "requestFramePermissions": ["camera"]
+}
